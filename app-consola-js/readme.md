@@ -24,6 +24,7 @@ Esta aplicación permite realizar operaciones matemáticas básicas y trabajar c
 
 #Estructura del proyecto
 - index.js → Código principal
+- index.html → Archivo HTML que carga el script JavaScript
 - README.md → Documentación
 - capturas/ → Evidencia visual del funcionamiento
 
